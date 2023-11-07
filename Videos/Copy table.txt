@@ -9,20 +9,19 @@
     <h4>请右键手动复制链接</h4>
     <hr>
     <table align="center" rules="void">
-        <caption>右键复制链接</caption>
-        <tr>
-            <th>
-            <th><p><a href=""><h3>第1集</h3></a></p></th>
-            <th><p><a href=""><h3>第2集</h3></a></p></th>
-            <th><p><a href=""><h3>第3集</h3></a></p></th>
-            <th><p><a href=""><h3>第4集</h3></a></p></th>
-            <th><p><a href=""><h3>第5集</h3></a></p></th>
-            <th><p><a href=""><h3>第6集</h3></a></p></th>
-            <th><p><a href=""><h3>第7集</h3></a></p></th>
-            <th><p><a href=""><h3>第8集</h3></a></p></th>
-            <th><p><a href=""><h3>第9集</h3></a></p></th>
-            <th><p><a href=""><h3>第10集</h3></a></p></th>
-        </tr>
+    <caption>右键复制链接</caption>
+    <tr>
+            <th><a href=""><h3>第1集</h3></a></th>
+            <th><a href=""><h3>第2集</h3></a></th>
+            <th><a href=""><h3>第3集</h3></a></th>
+            <th><a href=""><h3>第4集</h3></a></th>
+            <th><a href=""><h3>第5集</h3></a></th>
+            <th><a href=""><h3>第6集</h3></a></th>
+            <th><a href=""><h3>第7集</h3></a></th>
+            <th><a href=""><h3>第8集</h3></a></th>
+            <th><a href=""><h3>第9集</h3></a></th>
+            <th><a href=""><h3>第10集</h3></a></th>
+    </tr>
     </table>
 </body>
 </html> 
